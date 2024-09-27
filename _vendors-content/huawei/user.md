@@ -1,4 +1,4 @@
----
+--Yordan0606/dont-kill-my-app-
 manufacturer:
     - huawei
 
